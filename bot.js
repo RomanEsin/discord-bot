@@ -215,5 +215,5 @@ client.on('guildMemberAdd', member => {
     member.guild.channels.get(`607935317537849371`).send(attachment)
 })
 
-// client.login(process.env.BOT_TOKEN);
-client.login("NjA3OTM0MzYxMjgyODA1NzYx.XUl8OA.3Btp3oTcf4BmjILbO5_KexZiNok");
+// client.login(process.env.BOT_);
+client.login("your token here");
